@@ -60,11 +60,6 @@ You can also type a full international number starting with `+`, for example `+9
 
 ## 🌐 Supported countries
 
-Every country and territory covered by the phone number library is available in the picker.
-
-<details>
-<summary>Show the full list (248 countries and territories)</summary>
-
 - 🇦🇫 Afghanistan
 - 🇦🇱 Albania
 - 🇩🇿 Algeria
