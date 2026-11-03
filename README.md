@@ -8,15 +8,12 @@
   An offline Android app that tells you everything the public numbering data knows about a phone number.<br>
   Pick a country, type the number, get a clean report.
 </p>
----
 
 <p align="center">
-  <a href="YOUR_RELEASE_PAGE_LINK">
+  <a href="https://github.com/KSURitam/phone_number_information/releases/tag/Ap">
     <img src="https://img.shields.io/badge/⬇️_Download-APK-000000?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
   </a>
 </p>
-
----
 
 ## 📸 Screenshot
 
